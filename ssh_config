@@ -1,0 +1,10 @@
+# UMich GitLab
+Host gitlab
+	HostName gitlab.com
+	User git
+
+# CAEN
+Host caen
+	HostName login.engin.umich.edu
+	User keenadav
+	Compression yes
